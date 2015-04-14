@@ -635,7 +635,7 @@ define(templates,function (sectionsTpl, contentsTpl, folderTpl, mimeTypes) {
             var mods = ["assign", "assignment", "book", "chat", "choice",
             "data", "database", "date", "external-tool", "feedback", "file",
             "folder", "forum", "glossary", "ims", "imscp", "label", "lesson",
-            "lti", "page", "quiz", "resource", "scorm", "survey", "url", "wiki", "workshop"
+            "lti", "page", "quiz", "resource", "scorm", "survey", "url", "wiki", "workshop","webexactivity"
             ];
 
             if (mods.indexOf(moduleName) < 0) {
