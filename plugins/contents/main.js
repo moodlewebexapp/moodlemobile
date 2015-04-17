@@ -575,7 +575,9 @@ define(templates,function (sectionsTpl, contentsTpl, folderTpl, mimeTypes) {
             }
             information += "</p>";
 
-            information += '<p><a href="'+content.url+'" target="_blank">'+content.url+'</a></p>';
+            //information += '<p><a href="'+content.url+'" target="_blank">'+content.url+'</a></p>';
+            // TODO: Remove hard code url, get info from web service
+            information += '<p><a href="https://t29lsp13.qa.webex.com/meet/jiajia" target="_blank">https://t29lsp13.qa.webex.com/meet/jiajia</a></p>';
 
             MM.plugins.contents.infoBox = $('<div id="infobox-'+contentId+'"><div class="arrow-box-contents">'+information+'</div></div>').addClass("arrow_box");
             $('body').append(MM.plugins.contents.infoBox);
