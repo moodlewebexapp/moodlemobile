@@ -56,10 +56,10 @@
     <icon src="img/icon/ios/icon-57@2x.png"         gap:platform="ios"        width="114" height="114" />
     <icon src="img/icon/ios/icon-72@2x.png"         gap:platform="ios"        width="144" height="144" />
 
-    <gap:splash src="img/splash/android/ipad_portrait.png" gap:platform="android" gap:density="ldpi"/>
-    <gap:splash src="img/splash/android/ipad_portrait.png" gap:platform="android" gap:density="mdpi"/>
-    <gap:splash src="img/splash/android/ipad_portrait.png" gap:platform="android" gap:density="hdpi"/>
-    <gap:splash src="img/splash/android/ipad_portrait.png" gap:platform="android" gap:density="xhdpi"/>
+    <gap:splash src="img/splash/android/ipad_landscape.png" gap:platform="android" gap:density="ldpi"/>
+    <gap:splash src="img/splash/android/ipad_landscape.png" gap:platform="android" gap:density="mdpi"/>
+    <gap:splash src="img/splash/android/ipad_landscape.png" gap:platform="android" gap:density="hdpi"/>
+    <gap:splash src="img/splash/android/ipad_landscape.png" gap:platform="android" gap:density="xhdpi"/>
     <gap:splash src="img/splash/ios/ipad_landscape.png" gap:platform="android" width="1280" height="720"/>
     <gap:splash src="img/splash/ios/ipad_landscape.png" gap:platform="android" width="1440" height="900"/>
 
