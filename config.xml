@@ -60,6 +60,8 @@
     <gap:splash src="img/splash/android/android_mdpi_portrait.png" gap:platform="android" gap:density="mdpi"/>
     <gap:splash src="img/splash/android/android_hdpi_portrait.png" gap:platform="android" gap:density="hdpi"/>
     <gap:splash src="img/splash/android/android_xhdpi_portrait.png" gap:platform="android" gap:density="xhdpi"/>
+    <gap:splash src="img/splash/ios/ipad_landscape.png" gap:platform="android" width="1024" height="720"/>
+    <gap:splash src="img/splash/ios/ipad_landscape.png" gap:platform="android" width="1440" height="900"/>
 
     <gap:splash src="img/splash/ios/iphone_portrait.png" gap:platform="ios" width="320" height="480"/>
     <gap:splash src="img/splash/ios/iphone_retina_portrait.png" gap:platform="ios" width="640" height="960"/>
